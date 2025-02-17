@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/colorado-school-boards/static/js/main.00837431.chunk.js",
-    "main.js.map": "/colorado-school-boards/static/js/main.00837431.chunk.js.map",
-    "runtime-main.js": "/colorado-school-boards/static/js/runtime-main.9ef9b09a.js",
-    "runtime-main.js.map": "/colorado-school-boards/static/js/runtime-main.9ef9b09a.js.map",
+    "main.js": "/colorado-school-boards/static/js/main.4521eea0.chunk.js",
+    "main.js.map": "/colorado-school-boards/static/js/main.4521eea0.chunk.js.map",
+    "runtime-main.js": "/colorado-school-boards/static/js/runtime-main.af136d52.js",
+    "runtime-main.js.map": "/colorado-school-boards/static/js/runtime-main.af136d52.js.map",
     "static/css/2.22052b03.chunk.css": "/colorado-school-boards/static/css/2.22052b03.chunk.css",
-    "static/js/2.61dec132.chunk.js": "/colorado-school-boards/static/js/2.61dec132.chunk.js",
-    "static/js/2.61dec132.chunk.js.map": "/colorado-school-boards/static/js/2.61dec132.chunk.js.map",
+    "static/js/2.2b6c1834.chunk.js": "/colorado-school-boards/static/js/2.2b6c1834.chunk.js",
+    "static/js/2.2b6c1834.chunk.js.map": "/colorado-school-boards/static/js/2.2b6c1834.chunk.js.map",
     "index.html": "/colorado-school-boards/index.html",
     "static/css/2.22052b03.chunk.css.map": "/colorado-school-boards/static/css/2.22052b03.chunk.css.map",
-    "static/js/2.61dec132.chunk.js.LICENSE.txt": "/colorado-school-boards/static/js/2.61dec132.chunk.js.LICENSE.txt"
+    "static/js/2.2b6c1834.chunk.js.LICENSE.txt": "/colorado-school-boards/static/js/2.2b6c1834.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ef9b09a.js",
+    "static/js/runtime-main.af136d52.js",
     "static/css/2.22052b03.chunk.css",
-    "static/js/2.61dec132.chunk.js",
-    "static/js/main.00837431.chunk.js"
+    "static/js/2.2b6c1834.chunk.js",
+    "static/js/main.4521eea0.chunk.js"
   ]
 }
